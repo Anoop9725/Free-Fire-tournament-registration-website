@@ -650,7 +650,7 @@ const ContactForm = () => {
   };
 
   const contacts = [
-    { name: "Vijay Rajput", number: "8303850345" },
+    { name: "Anoop Kumar Pal", number: "9725635087" },
     { name: "Kaushal Rajput", number: "9336315325" },
     { name: "Ankit Rajput", number: "6392669268" },
   ];
